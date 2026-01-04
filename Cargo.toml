@@ -41,4 +41,4 @@ finl_unicode = "1.4"
 opt-level = 3
 
 [patch.crates-io]
-onenote_parser = { git = 'https://github.com/ByteHexler/onenote.rs.git', branch="drawing" }
+onenote_parser = { git = 'https://github.com/ByteHexler/onenote.rs.git', branch="handwriting" }
